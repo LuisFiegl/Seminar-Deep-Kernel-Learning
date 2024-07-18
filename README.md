@@ -1,0 +1,1 @@
+This repository contains all the code used for the experiments (incl. supporting plots) of my seminar thesis *Deep Kernel Learning* for the seminar *Uncertainty Quantification in Deep Learning* at LMU Munich (summer term 2024)
